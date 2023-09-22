@@ -5,11 +5,11 @@ import pandas as pd
 # from sklearn.preprocessing import MinMaxScaler
 # from keras.models import Sequential
 # from keras.layers import Dense, LSTM
-import matplotlib.pyplot as plt
-plt.style.use('fivethirtyeight')
+# import matplotlib.pyplot as plt
+# plt.style.use('fivethirtyeight')
 import yfinance as yf
 from datetime import date
-import plotly.graph_objects as go
+# import plotly.graph_objects as go
 
 #UI
 
