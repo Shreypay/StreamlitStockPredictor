@@ -3,8 +3,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 # from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+# from keras.models import Sequential
+# from keras.layers import Dense, LSTM
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
 import yfinance as yf
